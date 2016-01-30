@@ -1,5 +1,5 @@
 {
-  "name": "lezhnev74/monologAsyncHandler",
+  "name": "lezhnev74/monolog-async-handler",
   "description": "Sends monolog notifications via given closure",
   "type": "library",
   "minimum-stability": "stable",
