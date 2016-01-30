@@ -1,7 +1,8 @@
 # MonologAsyncHandler
 
-[![Travis](https://img.shields.io/travis/lezhnev74/monologAsyncHandler.svg)]()
 [![Packagist](https://img.shields.io/packagist/l/lezhnev74/monolog-async-handler.svg)]()
+[![Build Status](https://travis-ci.org/lezhnev74/monologAsyncHandler.svg?branch=master)](https://travis-ci.org/lezhnev74/monologAsyncHandler)
+
 
 
 
