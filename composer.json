@@ -1,6 +1,7 @@
 {
   "name": "lezhnev74/monologAsyncHandler",
   "description": "Sends monolog notifications via given closure",
+  "type": "library",
   "minimum-stability": "stable",
   "license": "MIT",
   "authors": [
