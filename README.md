@@ -2,6 +2,7 @@
 
 [![Packagist](https://img.shields.io/packagist/l/lezhnev74/monolog-async-handler.svg)]()
 [![Build Status](https://travis-ci.org/lezhnev74/monologAsyncHandler.svg?branch=master)](https://travis-ci.org/lezhnev74/monologAsyncHandler)
+[![Total Downloads](https://poser.pugx.org/lezhnev74/monolog-async-handler/downloads)](https://packagist.org/packages/lezhnev74/monolog-async-handler)
 
 
 
