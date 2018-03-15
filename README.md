@@ -10,7 +10,7 @@
 Handler for monolog to handle log writing through closure.
 Inside the closure you can set pushing to queues.
 
-##Example usage
+## Example usage
 
 ```php
 use lezhnev74\Monolog\Handler\ClosureHandler;
@@ -39,7 +39,7 @@ $monolog = new Logger('async_logger');
 $monolog->pushHandler($handler);
 ```
 
-##Installation
+## Installation
 
 ```
 composer require lezhnev74/monolog-async-handler
